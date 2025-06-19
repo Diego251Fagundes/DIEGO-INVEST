@@ -28,3 +28,5 @@ Demonstrar habilidades práticas em Excel para construção de planilhas finance
 ---
 
 📌 Projeto desenvolvido para fins educacionais.
+
+![DIEGO-INVEST](invest.png)
